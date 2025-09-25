@@ -1,0 +1,14 @@
+Macrophage: YELLOW
+
+apoptotic cell: BLACK
+
+prong virus: BLUE, CIRCLE
+spike ghost: PURPLE, TRIANGLE
+bumpy spiked: ORANGE, DIAMOND
+
+---------------
+
+
+round spikes: deleted 
+
+
